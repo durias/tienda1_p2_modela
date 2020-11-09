@@ -1,0 +1,11 @@
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\bin\Debug\[MYS1]API_P13.exe.config
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\bin\Debug\[MYS1]API_P13.exe
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\bin\Debug\[MYS1]API_P13.pdb
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.csprojAssemblyReference.cache
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\_MYS1_API_P13.Form1.resources
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\_MYS1_API_P13.Properties.Resources.resources
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.csproj.GenerateResource.cache
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.exe
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.pdb
+C:\Users\Danilo Urias\Desktop\Api modela\[MYS1]API_P13\[MYS1]API_P13\obj\Debug\[MYS1]API_P13.csproj.CopyComplete
